@@ -2,8 +2,6 @@ package restaurant_management;
 
 import java.util.Scanner;
 
-import admin.*;
-
 public class custMenu {
 
     public static void main() {
